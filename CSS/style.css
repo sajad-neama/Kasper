@@ -143,6 +143,8 @@ html {
 
 .header .contianer img {
     height: 40px;
+    z-index: 100;
+
 }
 
 .header .contianer .compund {
